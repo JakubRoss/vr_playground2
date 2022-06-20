@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/wsgteam0.unity
+- path: Assets/Scenes/wsgteam0.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
